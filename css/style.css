@@ -37,6 +37,12 @@ h5{
   vertical-align: middle;
 }
 
+#mobile-header{
+  text-align: center;
+  margin-left: 21%;
+  margin-top: -25%;
+}
+
 #pandalogo{
     height: 50%;
 }
@@ -136,4 +142,8 @@ img{
   1px -1px 0 #000,
   -1px 1px 0 #000,
   1px 1px 0 #000;
+}
+
+#margin-mobile-bottom{
+  margin-bottom: 5%;
 }
